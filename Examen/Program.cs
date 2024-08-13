@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Progam
+{
+    static void Main(string[] args)
+    {
+        try
+        {
+
+        }
+    }
+
+}
