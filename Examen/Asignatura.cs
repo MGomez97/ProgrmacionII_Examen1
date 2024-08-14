@@ -44,7 +44,7 @@ public class Asignatura : Alumno, IAsignatura
 
     public void Imprimir()
     { 
-    base.Imprimir();
+        base.Imprimir();
 
         double notaFinal1 = CalculaNotaFinal();
         double notaFinal2 = CalculaNotaFinalParametros(N1,N2,N3);
@@ -52,11 +52,13 @@ public class Asignatura : Alumno, IAsignatura
         string Mensaje1 = MensajeNotaFinal(notaFinal1);
         string Mensaje2 = MensajeNotaFinal(notaFinal2);
 
+        Console.WriteLine();
         Console.WriteLine("Datos Sobre la Asignatura");
         Console.WriteLine($"Clase: {NomAsignatura}");
         Console.WriteLine($"Horario: {Horario}");
         Console.WriteLine($"Docente: {NomDecente}");
 
+        Console.WriteLine();
         Console.WriteLine($"Nota Final 1: {notaFinal1} - {Mensaje1}");
         Console.WriteLine($"Nota Final 2: {notaFinal2} - {Mensaje2}");
     }

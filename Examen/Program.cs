@@ -42,7 +42,7 @@ class Progam
 
             Asignatura asignatura = new Asignatura(nombre, numeroCuenta, email, n1, n2, n3, NombreAsignatura, "Miercoles  1:00  -  3:00", "Ing. Juan");
 
-            asignatura.Imrimir();
+            asignatura.Imprimir();
 
         }
         catch (FormatException ge)
