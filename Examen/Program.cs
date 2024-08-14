@@ -18,7 +18,7 @@ class Progam
             string email = Console.ReadLine();
 
             Console.WriteLine("Ingrese el nombre de la Clase");
-            string nomClase = Console.ReadLine();
+            string NombreAsignatura = Console.ReadLine();
 
             Console.WriteLine();
 
@@ -40,7 +40,7 @@ class Progam
             if (n3 < 0 || n3 > 40)
                 throw new Exception("La nota del primer o segundo parcial sobrepasa del 40%");
 
-            Asignatura asignatura = new Asignatura(nombre, numcuenta, email, n1, n2, n3, nomClase, "Miercoles  1:00  -  3:00", "Ing. Juan");
+            Asignatura asignatura = new Asignatura(nombre, numcuenta, email, n1, n2, n3, NombreAsignatura, "Miercoles  1:00  -  3:00", "Ing. Juan");
 
             asignatura.Imrimir();
 

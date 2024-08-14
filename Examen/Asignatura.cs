@@ -53,7 +53,7 @@ public class Asignatura : Alumno, IAsignatura
         string Mensaje2 = MensajeNotaFinal(notaFinal2);
 
         Console.WriteLine("Datos Sobre la Asignatura");
-        Console.WriteLine($"Nombre: {NomAsignatura}");
+        Console.WriteLine($"Clase: {NomAsignatura}");
         Console.WriteLine($"Horario: {Horario}");
         Console.WriteLine($"Docente: {NomDecente}");
 
