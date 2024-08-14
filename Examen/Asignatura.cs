@@ -9,11 +9,11 @@ public class Asignatura : Alumno, IAsignatura
     public string Horario { get; set; }
     public string NomDecente { get; set; }
 
-    public Asignatura(string Nombre, string NumeroCuenta, string Email, int n1, int n2, int n3, string NombreAsignatura, string horario,
+    public Asignatura(string nombre, string NumeroCuenta, string Email, int n1, int n2, int n3, string NombreAsignatura, string horario,
     string NombreDecente)
 
     {
-        Name = Nombre;
+        Name = nombre;
         NumCuenta = NumeroCuenta;
         Correo = Email;
         N1 = n1;
@@ -42,9 +42,9 @@ public class Asignatura : Alumno, IAsignatura
             return "Sobresaliente";
     }
 
-    public void Imprimier()
+    public void Imprimir()
     { 
-    base.Imrimir();
+    base.Imprimir();
 
         double notaFinal1 = CalculaNotaFinal();
         double notaFinal2 = CalculaNotaFinalParametros(N1,N2,N3);
