@@ -1,0 +1,15 @@
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\bin\Debug\net8.0\Examen.exe
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\bin\Debug\net8.0\Examen.deps.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\bin\Debug\net8.0\Examen.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\bin\Debug\net8.0\Examen.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\bin\Debug\net8.0\Examen.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.sourcelink.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\refint\Examen.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\Examen.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\ProgrmacionII_Examen1\Examen\obj\Debug\net8.0\ref\Examen.dll

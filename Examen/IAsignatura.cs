@@ -2,5 +2,5 @@
 {
 
     double CalculaNotaFinal();
-    string MensajeNotaFinal(Double NotaFinal);
+    string MensajeNotaFinal(double notaFinal);
 }
