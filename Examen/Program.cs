@@ -29,7 +29,26 @@ class Progam
             if (n2 < 0 || n2 > 30)
                 throw new Exception("La nota del primer o segundo parcial sobrepasa del 30%");
 
+            Console.WriteLine("Ingrese nota del tercer parcial: ");
+            int n3 = int.Parse(Console.ReadLine());
+
+            if (n3 < 0 || n3 > 40)
+                throw new Exception("La nota del primer o segundo parcial sobrepasa del 40%");
+
+            Asignatura asignatura = new Asignatura(nombre, numcuenta, email, n1, n2, n3, "Algebra", "Miercoles  1:00  -  3:00", "Ing. Juan");
+
+            asignatura.Imrimir();
+
         }
+        catch (FormatException ge)
+        {
+            Console.WriteLine($"Error de formato {ge.Message}");
+        }
+        catch (Exception e) 
+        {
+            Console.WriteLine($"error {e.Message}");
+        }
+         
     }
 
 }
