@@ -21,7 +21,13 @@ class Progam
             int n1 = int.Parse(Console.ReadLine());
 
             if (n1 < 0 || n1 > 30)
-                throw new Exception("");
+                throw new Exception("La nota del primer o segundo parcial sobrepasa del 30%");
+
+            Console.WriteLine("Ingrese nota del segundo parcial: ");
+            int n2 = int.Parse(Console.ReadLine());
+
+            if (n2 < 0 || n2 > 30)
+                throw new Exception("La nota del primer o segundo parcial sobrepasa del 30%");
 
         }
     }
