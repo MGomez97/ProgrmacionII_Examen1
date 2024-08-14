@@ -7,7 +7,7 @@ public class Alumno
     public string Correo {  get; set; }
 
     public void Imprimir () {
-
+        Console.WriteLine("*******************************************************");
         Console.WriteLine();
         Console.WriteLine("Datos del Alumno");
         Console.WriteLine($"Nombre: {Name}");

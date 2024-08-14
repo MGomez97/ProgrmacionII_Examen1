@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|solutionrelative:asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\progrmacionii_examen1\\examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\progrmacionii_examen1\\examen\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\progrmacionii_examen1\\examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32FE23A8-310F-42D3-B6AC-8D481370E114}|Examen.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\progrmacionii_examen1\\examen\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\ProgrmacionII_Examen1\\Examen\\Alumno.cs",
               "RelativeDocumentMoniker": "Alumno.cs",
               "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\ProgrmacionII_Examen1\\Examen\\Alumno.cs",
               "RelativeToolTip": "Alumno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T02:10:01.815Z",
               "EditorCaption": ""
@@ -62,14 +62,14 @@
               "RelativeDocumentMoniker": "Asignatura.cs",
               "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\ProgrmacionII_Examen1\\Examen\\Asignatura.cs",
               "RelativeToolTip": "Asignatura.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAXAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T02:25:55.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\ProgrmacionII_Examen1\\Examen\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

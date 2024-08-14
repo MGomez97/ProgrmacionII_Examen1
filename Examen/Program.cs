@@ -36,6 +36,7 @@ class Progam
 
             Console.WriteLine("Ingrese nota del tercer parcial: ");
             int n3 = int.Parse(Console.ReadLine());
+            Console.WriteLine();
 
             if (n3 < 0 || n3 > 40)
                 throw new Exception("La nota del primer o segundo parcial sobrepasa del 40%");
