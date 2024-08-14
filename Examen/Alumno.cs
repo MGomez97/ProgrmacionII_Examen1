@@ -8,6 +8,7 @@ public class Alumno
 
     public void Imprimir () {
 
+        Console.WriteLine();
         Console.WriteLine("Datos del Alumno");
         Console.WriteLine($"Nombre: {Name}");
         Console.WriteLine($"Numero De Cuenta: {NumCuenta}");

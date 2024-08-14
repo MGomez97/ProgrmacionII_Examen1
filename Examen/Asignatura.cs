@@ -27,7 +27,7 @@ public class Asignatura : Alumno, IAsignatura
 
     public double CalculaNotaFinal()
     {
-        return (N1 + N2 + N3) / 3.0;
+        return (N1 + N2 + N3);
     }
 
     public string MensajeNotaFinal(double notaFinal)
@@ -61,10 +61,12 @@ public class Asignatura : Alumno, IAsignatura
         Console.WriteLine();
         Console.WriteLine($"Nota Final 1: {notaFinal1} - {Mensaje1}");
         Console.WriteLine($"Nota Final 2: {notaFinal2} - {Mensaje2}");
+        Console.WriteLine();
+        Console.WriteLine("*******************************************************");
     }
 
         private double CalculaNotaFinalParametros(int n1,int n2, int n3)
     {
-        return (n1 + n2 + n3) / 3.0;
+        return (n1 + n2 + n3);
     }
 }
